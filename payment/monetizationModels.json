@@ -96,7 +96,7 @@
         "prices": {
             "unit": {
                 "currency": "usd",
-                "unitAmount": 74900,
+                "unitAmount": 80000,
                 "quota": 15000
             }
         }
