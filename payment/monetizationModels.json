@@ -100,5 +100,20 @@
                 "quota": 15000
             }
         }
+    },
+    {
+        "id": "payment-eco",
+        "pricingModelType": "Unit",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 14000,
+                "quota": 60000
+            }
+        }
     }
 ]
